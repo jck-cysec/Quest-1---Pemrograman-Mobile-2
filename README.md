@@ -52,15 +52,15 @@ Program ini menggunakan beberapa konsep dasar dan asinkron dalam bahasa Dart, an
 1. Pastikan kamu sudah menginstal **Dart SDK** di perangkatmu.  
 2. Clone repository ini:  
    ```bash
-   git clone https://github.com/username/nilai-harapan-dart.git
+   git clone [https://github.com/username/nilai-harapan-dart.git](https://github.com/jck-cysec/Quest-1---Pemrograman-Mobile-2.git)
    ```
 3. Masuk ke folder proyek:  
    ```bash
-   cd nilai-harapan-dart
+   cd Quest-1---Pemrograman-Mobile-2.git
    ```
 4. Jalankan program:  
    ```bash
-   dart run main.dart
+   dart run Soal1.dart
    ```
 5. Masukkan harapan nilai untuk tiap mata kuliah saat diminta.  
 
